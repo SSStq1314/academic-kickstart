@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: 邵天奇
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,28 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
-
+role: iOS/前端开发者
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Tench‘s Den(@Tench)
+  url: "https://weibo.com/3928306402/profile?topnav=1&wvr=6"
+  avatar: "portrait.jpg"
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 游泳
+- 移动互联网领域
+- 看日漫追日剧学日语
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: 计算机科学与技术（软件开发）工学学士学位
+    institution: 渤海大学
+    year: 2017
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +41,13 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: weibo
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://weibo.com/3928306402/profile?topnav=1&wvr=6
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/SSStq1314
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +64,14 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+
+
+
+本人热爱iOS开发，从第一次自己的项目成功上线并且获奖开始，真正的体会到了那种从零开始到最后的成就感，体会到了开发的乐趣与魅力。
+具有良好的沟通能力，协调能力，并且拥有强烈的责任心和团队合作精神，从实习到工作至今为止，着手开发经历大大小小的项目十多个，主要负责iOS端的开发和前端开发。
+
+擅长Objective-C开发，会一些swift，目前正在学习当中，由于公司后来业务调整，后期主要开始进行前端开发和微信小程序开发，使用过vue，对原生微信小程序开发很经验，并且对mpvue和uni-app等一些跨平台开发框架有所研究和接触。
+
+同时也喜欢旅游，阅读以及摄影。愿意尝试新鲜事物，并且持续地从这些新鲜事物中进行学习，丰富自己。

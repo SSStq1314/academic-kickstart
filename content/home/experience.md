@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "职业经历"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "iOS/前端开发"
+  company = "信创（大连）科技有限公司"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "大连"
+  date_start = "2016-06-18"
   date_end = ""
   description = """
-  Responsibilities include:
+  主要工作内容:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * iOS应用开发及上架
+  * 移动前端页面开发
+  * 微信小程序开发
+  
   """
 
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+
 
 +++
