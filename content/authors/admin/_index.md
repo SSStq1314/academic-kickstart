@@ -13,8 +13,8 @@ superuser: true
 role: web前端开发/iOS开发
 # Organizations/Affiliations
 organizations:
-- name: Tench Shao‘s Den
-  url: "https://epic-bhabha-6235f5.netlify.app"
+- name: 期望薪资：16～20k
+  url: ""
   avatar: "portrait.PNG"
 
 
