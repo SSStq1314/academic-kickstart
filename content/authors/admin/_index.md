@@ -42,9 +42,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: weibo
-  icon_pack: fab
-  link: https://weibo.com/3928306402/profile?topnav=1&wvr=6
+  
 - icon: github
   icon_pack: fab
   link: https://github.com/SSStq1314
