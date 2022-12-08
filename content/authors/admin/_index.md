@@ -13,16 +13,16 @@ superuser: true
 role: web前端开发/iOS开发
 # Organizations/Affiliations
 organizations:
-- name: 期望薪资：16～20k
+- name: 大前端开发方向
   url: ""
   avatar: "portrait.PNG"
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: adadcs, mobile computing and programmable matter.
 
 interests:
-- 游泳
+- 搬家式露营爱好者
 - 撸猫
 - 移动互联网以及高科技产品
 - 初级高达胶佬
@@ -54,7 +54,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "tench@88.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -68,13 +68,8 @@ user_groups:
 
 
 
-做过近两年的iOS原生开发，后期自学微信小程序开发和vue开发，近两年多主要使用uni-app跨平台app开发，熟悉小程序和iOS应用的上架以及审核和全部流程。
+具有良好的沟通能⼒，协调能⼒，并且拥有强烈的责任⼼和团队合作精神。⼯作⾄今为⽌，负责开发⼩程序多达⼗多个，参与或者负责开发多款App，近⼀年来负责的壹品仓 iOS App 已累计⽤户超过130w，⽇活跃⽤户近2w。
 
+开发上架的iOS App大概有四五个，目前还在App Store提供下载的有：优小店（商家版），MOS智慧零售，壹品仓。擅长Objective-C开发，会一些swift。工作至今为止，负责开发小程序多达十多个，对原生微信小程序开发有很多的经验。中期主要进行uni-app跨平台开发，使用过vue开发过PC端和微信公众号端H5，做过企业微信应用（企微通）。
 
-具有良好的沟通能力，协调能力，并且拥有强烈的责任心和团队合作精神，从实习到工作至今为止，负责开发小程序多达十多个，其中日活最高的小程序，累计用户近三十万。开发上架的iOS App大概有四五个，目前还在App Store提供下载的有：优小店（商家版），MOS智慧零售。
-
-
-擅长Objective-C开发，会一些swift，目前正在学习当中。近三年时间主要进行uni-app跨平台开发，负责公司的微信小程序，iOS App和Android App开发管理工作。 使用过vue开发过PC端和微信公众号端H5，做过企业微信应用（企微通）。对原生微信小程序开发有很多的经验。
-
-
-喜欢追日漫，家有两只猫，职业铲屎官。同时也喜欢旅游，阅读以及摄影。愿意尝试新鲜事物，并且持续地从这些新鲜事物中进行学习，丰富自己。近期对日本万代高达模型产生极大兴趣，目前初级高达胶佬。
+喜欢⽇漫，初级胶佬，露营党，职业铲屎官。愿意尝试新鲜事物，并且持续地从这些新鲜事物中进⾏学习，丰富⾃⼰。

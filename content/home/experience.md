@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "web前端开发"
+  title = "iOS/web前端开发"
   company = "信创（大连）科技有限公司"
   company_url = ""
   location = "大连"
@@ -36,19 +36,50 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "iOS/前端开发"
+  title = "web前端开发"
   company = "冠通新创科技（上海）有限公司"
   company_url = ""
   location = "上海"
   date_start = "2020-09-01"
-  date_end = ""
+  date_end = "2021-09-01"
   description = """
   主要工作内容:
   
-  * iOS App和 Android App开发及管理
-  * 微信小程序开发
+  * 前端小组的团队管理以及相关任务分配
+  * uni-app跨平台开发 App开发及管理发布
+  * 微信小程序项目的开发与管理
 
   
+  
+  """
+
+
+
+[[experience]]
+  title = "iOS高级开发工程师"
+  company = "上海壹品仓软件科技有限公司"
+  company_url = ""
+  location = "上海"
+  date_start = "2021-09-01"
+  date_end = "2022-08-03"
+  description = """
+  主要工作内容:
+  
+  * 壹品仓 iOS App的项目维护版本迭代以及新功能开发工作
+  
+  """
+
+[[experience]]
+  title = "技术部前端开发组组长"
+  company = "上海天成必得影视科技有限公司"
+  company_url = ""
+  location = "上海"
+  date_start = "2022-08-03"
+  date_end = "2022-11-01"
+  description = """
+  主要工作内容:
+  
+  * 负责公司的前端部门的组建，人员面试以及公司项目的搭建等
   
   """
 

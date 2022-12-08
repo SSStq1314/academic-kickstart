@@ -9,12 +9,12 @@
   weight = 10
 
 [[main]]
-  name = "项目"
+  name = "项目经历"
   url = "#projects"
   weight = 30
 
 [[main]]
-  name = "联系"
+  name = "联系方式"
   url = "#contact"
   weight = 60
 
