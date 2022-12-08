@@ -8,10 +8,22 @@
   url = "#about"
   weight = 10
 
+
 [[main]]
-  name = "项目经历"
-  url = "#projects"
+  name = "专业技能"
+  url = "#skills"
+  weight = 20
+
+[[main]]
+  name = "职业经历"
+  url = "#experience"
   weight = 30
+
+
+[[main]]
+  name = "主要项目"
+  url = "#projects"
+  weight = 40
 
 [[main]]
   name = "联系方式"
