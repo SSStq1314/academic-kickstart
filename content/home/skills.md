@@ -18,7 +18,7 @@ subtitle = ""
   icon = "apple"
   icon_pack = "fab"
   name = "iOS"
-  description = "熟悉Objective-C语言，能够使用UIKit、CoreFoundation等原生库进行iOS开发。熟悉Mac操作系统和Xcode开发工具的应用。熟悉CocoaPods第三方库管理工具、fastlane自动化打包发布工具。掌握iOS的动画实现方式和MVC、代理、单例、KVO等设计模式，有较强的面向对象编程概念。了解iOS的混合开发模式和js与原生的交互，有uni-app和flutter等跨平台开发框架的使用和混合开发经验。"
+  description = "熟悉Objective-C语言和MVC、代理、单例、KVO等设计模式。熟悉Mac操作系统和Xcode开发工具的应用。熟悉CocoaPods第三方库管理工具、fastlane自动化打包发布工具。熟悉iOS的混合开发模式，以及js与原生的交互等。"
 
 
   
@@ -32,6 +32,6 @@ subtitle = ""
   icon = "docker"
   icon_pack = "fab"
   name = "服务器"
-  description = "购买使用过腾讯云的微服务器和阿里云的服务器，了解并熟悉掌握服务器的搭建和部署，了解并会使用docker或者宝塔等工具，为服务器安装各种应用程序和部署应用等。通过docker自主搭建并使用Fastlane⾃动化打包发布⼯具，为团队搭建gitlab代码仓库并为组员分配权限等。同时熟悉网站站点的开发发布过程，域名ICP等相关认证等。"
+  description = "购买使用过腾讯云和阿里云的服务器，了解并熟悉掌握服务器的搭建和部署，了解docker或者宝塔等工具，为服务器安装各种应用程序和部署应用。通过搭建docker使用Fastlane⾃动化打包发布⼯具，为团队搭建gitlab代码仓库等。"
 
 +++

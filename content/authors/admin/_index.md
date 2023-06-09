@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: web前端开发/iOS开发
+role: web前端开发
 # Organizations/Affiliations
 organizations:
 - name:  
@@ -24,7 +24,6 @@ bio: adadcs, mobile computing and programmable matter.
 interests:
 - 搬家式露营爱好者
 - 有猫有狗铲屎官
-- 移动互联网以及高科技产品
 - 初级高达胶佬
 
 education:
@@ -66,12 +65,10 @@ user_groups:
 
 
 
-有着近六年的丰富工作经验，主要负责iOS和web前端的混合开发以及跨平台开发工作。对Objective-C开发语言熟练掌握，同时也熟练使用Swift语言。能够熟练使用Xcode和Charles等其他工具，能够快速的进行开发调试工作。同时前端开发主要是使用Vue和Uni-app跨平台开发，熟悉HTML、CSS和JavaScript，并掌握各种前端框架和库，如Angular、Vue等，以及相关的构建工具和打包工具。
+有着近六年的丰富工作经验，主要负责移动前端的混合开发以及跨平台开发工作。使用Vue和uni-app跨平台开发，熟悉HTML、CSS和JavaScript，并掌握各种前端框架和库，如Angular、Vue、 Flutter等，以及相关的构建工具和打包工具。同时对Objective-C开发语言熟练掌握，会一些Swift语言。能够熟练使用Xcode和Charles等工具，能够快速的进行开发调试工作。
 
-参与或负责多个前端项目，包括iOS app，小程序，微信H5以及PC端管理平台的开发工作。在每个项目中，我都致力于提高产品质量和用户体验，以确保每个项目都能够得到最佳的结果。
+参与并负责多个前端项目，包括小程序，微信H5，PC端管理平台以及iOS的开发工作。在每个项目中，我都致力于提高产品质量和用户体验，以确保每个项目都能够得到最佳的结果。
 
 此外，本人具有很强的沟通能力和协调能力，并且善于团队合作。注重工作中的细节，勇于接受挑战并积极解决问题。
-
-在业余时间，喜欢尝试新的事物，并且享受日漫、露营和成为职业铲屎官带来的愉悦。这些爱好让我能够更好地放松自己，同时也能够帮助我更好地学习和成长。
 
 感谢您考虑我的简历，期待能够有机会和您进一步交流。
