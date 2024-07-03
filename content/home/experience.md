@@ -54,7 +54,7 @@ date_format = "2006.1"
   """
 
 [[experience]]
-  title = "前端部门负责人"
+  title = "前端技术主管"
   company = "上海无界领域数字娱乐科技有限公司"
   company_url = ""
   location = "上海"
