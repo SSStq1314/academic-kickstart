@@ -15,23 +15,40 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "apple"
-  icon_pack = "fab"
-  name = "iOS"
-  description = "精通Objective-C语言，熟练使用UIKit、CoreFoundation等原生库。熟悉CocoaPods第三方库管理工具、fastlane自动化打包工具等。 精通iOS平台下的多线程开发，熟悉常用的设计模式和数据结构，网络编程，SQLite编程等，有较强的面向对象编程概念。了解iOS的混合开发模式和js与原生的交互，熟悉跨平台开发框架，有Flutter、uniapp或 Mac平台开发经验的优先；"
+  icon = "mobile"
+  icon_pack = "fas"
+  name = "移动开发"
+  description = """
+  - 精通微信小程序、uniapp 跨平台开发以及 iOS 原生应用开发。
+  -	精通 iOS (Objective-C / Swift)，熟悉 UIKit、CoreFoundation
+  - 掌握混合开发模式及 JS 与原生交互。
+"""
+
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "前端开发"
+  description = """
+  - 精通 Vue3全家桶、TypeScript、JavaScript、HTML、Sass
+  - 熟悉 Element-Plus、ECharts、Ant Design Vue等主流 UI 框架
+  - 熟悉 WebSocket 实时通信，以及前端性能优化、工程化与安全防护
+  """
 
 
   
 [[feature]]
-  icon = "vuejs"
-  icon_pack = "fab"
-  name = "web前端"
-  description = "熟悉Vue开发框架，精通微信小程序开发及其相关流程，了解和使用过前端性能优化方法。掌握localStorage、sessionStorage等前端存储⽅案；熟练掌握 JavaScript、TypeScript、Css、HTML技术，熟练掌握NodeJS的技术及原理。熟悉使用常见的开发工具和库Nodejs、Git、Less、Echarts、Vite、Webpack、Eslint等。了解webpack项目构建工具。"  
+  icon = "server"
+  icon_pack = "fas"
+  name = "后端开发"
+  description = """
+  - 熟悉 Node.js、NestJS、TypeORM。
+  - 了解 MySQL、Redis，JWT 认证、RBAC 权限管理。
+  - 熟悉 Nginx、Caddy、Docker、Linux 运维及云部署。
+"""
   
-[[feature]]
-  icon = "docker"
-  icon_pack = "fab"
-  name = "服务端"
-  description = "了解并熟悉掌握腾讯云和阿里云的云服务器的搭建和部署，深入理解Linux操作系统安全，了解熟悉Docker的基本操作，通过Docker自主搭建并使用Fastlane⾃动化打包发布⼯具，为团队搭建gitlab代码仓库并为组员分配权限等。同时熟悉网站站点的开发发布过程，域名ICP等相关认证等。"
+
+
+
+
 
 +++

@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: web前端开发/iOS开发
+role: 高级前端开发工程师
 # Organizations/Affiliations
 organizations:
 - name:  
@@ -22,10 +22,8 @@ organizations:
 bio: adadcs, mobile computing and programmable matter.
 
 interests:
-- 搬家式露营小白
-- 有猫有狗铲屎官
-- 数码科技产品爱好者
-- 初级高达胶佬
+- 🏕️ 搬家式露营小白
+- 🛠️ 初级高达胶佬
 
 education:
   courses:
@@ -64,11 +62,10 @@ user_groups:
 ---
 
 
+目前担任公司高级前端开发工程师，负责大前端架构设计、技术选型及团队管理。
 
-目前负责公司前端开发组的项目管理工作，针对项目目标进行拆解和实施， 带领团队完成业务目标。参与或负责包括iOS，小程序，微信H5以及PC端管理平台等多个项目开发工作。擅长于iOS开发，移动前端开发，熟练掌握Objective-C，同时也会一些Swift语言和Uni-app混合开发以及跨平台开发知识和技能。
+熟练掌握 Vue3、Vite、JS/TS、tailwindcss 等最新前端技术栈，具备 Electron 桌面应用、微信小程序、UniApp 跨平台开发能力。
 
+具备扎实的 Node.js / NestJS 后端开发经验，能够独立完成前后端一体化项目架构与开发，具备丰富的团队管理与跨部门协作经验。
 
-此外，本人具有很强的沟通能力和协调能力，并且善于团队合作。注重工作中的细节，勇于接受挑战并积极解决问题。善于探索新技术，对前端技术有强烈的兴趣和追求，有持续的技术学习和自我提升意识
-
-感谢您考虑我的简历，期待能够有机会和您近一步的交流。
-
+擅长技术难题攻关、关注用户体验、组件复用和系统性能优化，具备全栈视角和良好的跨团队协作能力。
