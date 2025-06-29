@@ -37,7 +37,7 @@ date_format = "2006.1"
 
 [[experience]]
   title = "技术主管"
-  company = "上海无界领域数字娱乐科技有限公司"
+  company = "上海元数嗨嗨科技有限公司"
   company_url = ""
   location = "上海"
   date_start = "2022-08-03"
